@@ -2,7 +2,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_PCD8544.h>
 
-// using Hardware SPI
+// using Hardware SPI[faster than software SPI]
 // pin 13 - Serial clock out (SCLK)-Fixer pin
 // pin 11 - Serial data out (DIN)-Fixed pin
 // pin 6 - Data/Command select (D/C)
